@@ -1,2 +1,0 @@
-# MatchTheColor
-Coloring matching game
